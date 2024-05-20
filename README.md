@@ -1,6 +1,6 @@
 # React + TypeScript + Vite 
 
-you can see this page online here : http://taxi.bahamin.online/
+you can see this page online here : http://taxi.bahamin.us/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
